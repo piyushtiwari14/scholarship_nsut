@@ -1,0 +1,8 @@
+pandas
+streamlit
+openpyxl
+pdfplumber
+python-docx
+RapidFuzz
+xlrd
+pytest
